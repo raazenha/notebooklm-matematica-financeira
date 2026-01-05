@@ -18,5 +18,12 @@ O estudo foi conduzido no NotebookLM, a partir da curadoria de fontes em PDF.
 As interações com a IA foram registradas, analisadas e organizadas,
 resultando em um miniguia de estudo reutilizável.
 
+## 🔗 Acesso ao caderno no NotebookLM
+
+O caderno temático foi desenvolvido no NotebookLM e pode ser acessado no link abaixo
+(apenas para visualização):
+
+👉 https://notebooklm.google.com/notebook/661d6952-9f95-47bc-8714-07af3b509d9f
+
 > Observação: O NotebookLM não possui integração direta com o GitHub.
 Este repositório concentra os resultados finais do trabalho desenvolvido.
