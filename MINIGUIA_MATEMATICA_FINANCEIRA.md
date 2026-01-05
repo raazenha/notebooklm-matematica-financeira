@@ -86,6 +86,14 @@ O estudo foi conduzido no NotebookLM a partir da curadoria de fontes confiáveis
 ## 8. Reflexão Final
 O uso do NotebookLM possibilitou transformar a leitura passiva de livros em um processo ativo de aprendizagem. A inteligência artificial atuou como mediadora do conhecimento, apoiando a organização conceitual, a síntese e a revisão de conteúdos. A construção deste miniguia evidencia que a IA pode ser utilizada de forma crítica, responsável e produtiva no contexto acadêmico.
 
+## 🔗 Caderno original no NotebookLM
+
+Para fins de transparência e verificação do processo de aprendizagem,
+o caderno temático desenvolvido no NotebookLM está disponível para visualização no link:
+
+https://notebooklm.google.com/notebook/661d6952-9f95-47bc-8714-07af3b509d9f
+
+
 ---
 
 ## 9. Observação Final
